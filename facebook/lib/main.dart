@@ -6,6 +6,7 @@ import 'page/friend.dart';
 import 'page/inforPage.dart';
 import 'page/mainPage.dart';
 import 'page/policypage.dart';
+import 'page/homepage.dart';
 
 void main() {
   runApp(const Facebook());
